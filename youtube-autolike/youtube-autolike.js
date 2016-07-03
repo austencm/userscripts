@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         YouTube Autolike
-// @namespace    http://tampermonkey.net/
+// @namespace    mailto:contactausten+userscripts@gmail.com
 // @version      0.1
-// @description  Magically like YouTube videos from your subscriptions
+// @description  Magically like YouTube videos from channels you subscribe to.
 // @author       Austen Morgan
 // @include      http://*.youtube.com/watch*v=*
 // @include      http://youtube.com/watch*v=*
@@ -11,6 +11,8 @@
 // @run-at       document-end
 // @grant        none
 // ==/UserScript==
+
+/* Holler at me on Twitter: @austencm */
 
 (function() {
     'use strict';
