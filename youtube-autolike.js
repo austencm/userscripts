@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         YouTube Autolike
-// @namespace    http://tampermonkey.net/
+// @namespace    mailto:contactausten+userscripts@gmail.com
 // @version      0.1
 // @description  Magically like YouTube videos from channels you subscribe to.
 // @author       Austen Morgan
