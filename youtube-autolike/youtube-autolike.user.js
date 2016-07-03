@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         YouTube Autolike
+// @name         YouTube Auto Like
 // @namespace    contactausten+userscripts@gmail.com
 // @version      0.1
 // @description  Magically like YouTube videos from channels you subscribe to.
